@@ -1,0 +1,16 @@
+.container {
+  height: 350px;
+  background-color: lightblue;
+  overflow: hidden;
+}
+
+.header {
+  color: #333;
+  margin: 20px;
+}
+
+.thumbnail {
+  width: 180px;
+  height: auto;
+  margin-bottom: 20px;
+}

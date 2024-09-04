@@ -1,0 +1,26 @@
+.container {
+  height: 200px;
+  background-color: lightpink;
+  padding: 35px 0;
+  overflow: hidden;
+}
+
+.wrapper {
+  width: clamp(400px, 80%, 1200px);
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid red;
+}
+
+.contactMe {
+  margin: 15px;
+}
+
+.ruler {
+  width: clamp(100px, 60%, 700px);
+  margin: 0 auto;
+}
+
+.info {
+  margin-top: 10px;
+}
